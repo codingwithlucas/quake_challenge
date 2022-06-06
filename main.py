@@ -1,7 +1,3 @@
-# Candidato: Lucas Fernando de Souza Soares
-# Data de nascimento: 23/09/1999
-# E-mail: lucasgc55@yahoo.com
-# Telefone: (43) 9 9695-7144
 # Desafio Quake
 # Pragma - estágio em desenvolvimento de sistemas (Gupy)
 # Reposta construída com a linguagem Python.
